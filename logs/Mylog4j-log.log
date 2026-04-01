@@ -1,0 +1,1204 @@
+[INFO ]2026-04-0117:25:50.538[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:25:50.542[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:25:50.571[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:25:50.572[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:25:50.578[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:25:54.468[main]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-04-0117:25:54.487[main]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0117:25:54.529[main]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0117:25:54.539[main]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0117:25:54.923[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0117:25:57.421[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0117:25:57.421[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0117:25:57.421[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0117:25:57.438[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0117:26:07.795[main]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-04-0117:26:08.182[main]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0117:26:08.339[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:26:08.339[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:26:08.342[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:26:08.343[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:26:08.344[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:26:09.720[main]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-04-0117:26:09.735[main]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0117:26:09.764[main]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0117:26:09.770[main]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0117:26:10.152[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0117:26:10.157[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0117:26:10.158[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0117:26:10.158[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0117:26:10.177[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0117:30:29.572[TestNG-tests-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:30:29.572[TestNG-tests-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:30:29.572[TestNG-tests-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:30:29.575[TestNG-tests-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:30:29.575[TestNG-tests-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:30:29.575[TestNG-tests-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:30:29.577[TestNG-tests-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:30:29.577[TestNG-tests-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:30:29.577[TestNG-tests-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:30:29.578[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
+[INFO ]2026-04-0117:30:29.578[TestNG-tests-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0117:30:29.578[TestNG-tests-1]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:30:29.581[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
+[INFO ]2026-04-0117:30:29.581[TestNG-tests-1]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:30:29.581[TestNG-tests-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0117:30:32.548[TestNG-tests-1]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-04-0117:30:32.630[TestNG-tests-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0117:30:32.797[TestNG-tests-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0117:30:32.809[TestNG-tests-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0117:30:33.210[TestNG-tests-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0117:30:34.145[TestNG-tests-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0117:30:34.288[TestNG-tests-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0117:30:34.362[TestNG-tests-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0117:30:34.371[TestNG-tests-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0117:30:34.754[TestNG-tests-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0117:31:11.604[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:31:11.607[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:31:11.608[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:31:11.608[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:31:11.611[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:31:14.415[main]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-04-0117:31:14.445[main]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0117:31:14.518[main]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0117:31:14.536[main]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0117:31:15.344[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0117:31:18.716[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0117:31:18.716[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0117:31:18.716[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0117:31:18.769[main]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0117:31:27.531[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:31:27.531[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:31:27.533[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:31:27.534[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:31:27.534[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:31:29.257[main]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-04-0117:31:29.276[main]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0117:31:29.324[main]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0117:31:29.331[main]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0117:31:30.202[main]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0117:31:30.208[main]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0117:31:30.210[main]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0117:31:30.210[main]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0117:31:30.236[main]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0117:31:31.595[main]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0117:31:31.595[main]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0117:31:31.596[main]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0117:31:31.597[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0117:31:31.597[main]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-7]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-6]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-9]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.825[TestNG-PoolService-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.825[TestNG-PoolService-6]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.825[TestNG-PoolService-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-5]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-4]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.825[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.825[TestNG-PoolService-7]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.819[TestNG-PoolService-0]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:03:15.825[TestNG-PoolService-9]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.826[TestNG-PoolService-5]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.826[TestNG-PoolService-4]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.826[TestNG-PoolService-0]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.826[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-9]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.829[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.829[TestNG-PoolService-6]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.829[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.829[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-5]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.829[TestNG-PoolService-4]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-0]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.829[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.830[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.829[TestNG-PoolService-7]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:03:15.828[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.830[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.830[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.830[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:15.838[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:03:27.584[TestNG-PoolService-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:27.584[TestNG-PoolService-6]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:27.631[TestNG-PoolService-6]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:27.639[TestNG-PoolService-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:27.648[TestNG-PoolService-1]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:27.814[TestNG-PoolService-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:27.935[TestNG-PoolService-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:27.938[TestNG-PoolService-6]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:27.950[TestNG-PoolService-6]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:27.950[TestNG-PoolService-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:28.196[TestNG-PoolService-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:28.236[TestNG-PoolService-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:29.683[TestNG-PoolService-7]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:30.122[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:30.481[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:30.649[TestNG-PoolService-7]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:30.768[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:03:31.270[TestNG-PoolService-0]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:31.333[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:31.249[TestNG-PoolService-5]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:31.494[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:31.559[TestNG-PoolService-0]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:31.583[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:03:31.805[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:03:31.863[TestNG-PoolService-7]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:32.457[TestNG-PoolService-9]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:32.472[TestNG-PoolService-0]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:32.533[TestNG-PoolService-7]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:32.457[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:32.760[TestNG-PoolService-0]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:33.197[TestNG-PoolService-5]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:33.383[TestNG-PoolService-4]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:03:33.765[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:34.108[TestNG-PoolService-5]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:34.268[TestNG-PoolService-9]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:03:34.956[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:03:35.103[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:03:35.196[TestNG-PoolService-5]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:35.245[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:03:35.387[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:03:35.843[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-6]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.605[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-4]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.605[TestNG-PoolService-4]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.605[TestNG-PoolService-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-9]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-9]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-0]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.606[TestNG-PoolService-0]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-6]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.606[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-6]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-7]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-0]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-7]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.608[TestNG-PoolService-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-9]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.608[TestNG-PoolService-9]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-6]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.608[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-7]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-6]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-5]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.609[TestNG-PoolService-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.609[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.609[TestNG-PoolService-9]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-5]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-0]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-0]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-4]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-7]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.609[TestNG-PoolService-5]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-7]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-0]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.609[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-7]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.609[TestNG-PoolService-6]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-0]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.613[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.613[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.613[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.613[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.613[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.608[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.608[TestNG-PoolService-7]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.608[TestNG-PoolService-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.608[TestNG-PoolService-7]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-5]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.614[TestNG-PoolService-7]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.614[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.614[TestNG-PoolService-5]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.606[TestNG-PoolService-9]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.615[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.615[TestNG-PoolService-5]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.607[TestNG-PoolService-4]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.615[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.615[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.615[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.606[TestNG-PoolService-9]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.615[TestNG-PoolService-9]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.605[TestNG-PoolService-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.598[TestNG-PoolService-4]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:25:40.616[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.613[TestNG-PoolService-6]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.616[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.614[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-0]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.605[TestNG-PoolService-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.605[TestNG-PoolService-6]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-4]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.616[TestNG-PoolService-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.611[TestNG-PoolService-5]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.610[TestNG-PoolService-5]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.616[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-4]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.618[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.606[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.616[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.618[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.618[TestNG-PoolService-5]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.616[TestNG-PoolService-9]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-6]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-0]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-4]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.621[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.619[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.622[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.622[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.617[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.620[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.622[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.622[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.624[TestNG-PoolService-4]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:25:40.624[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.624[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.622[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:25:40.624[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:26:05.440[TestNG-PoolService-5]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:05.995[TestNG-PoolService-6]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:09.765[TestNG-PoolService-6]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:10.539[TestNG-PoolService-6]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:10.967[TestNG-PoolService-5]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:11.082[TestNG-PoolService-6]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:11.620[TestNG-PoolService-6]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:11.678[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:14.249[TestNG-PoolService-6]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:15.670[TestNG-PoolService-6]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:15.792[TestNG-PoolService-6]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:15.902[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:16.703[TestNG-PoolService-5]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:16.862[TestNG-PoolService-5]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:17.240[TestNG-PoolService-4]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:17.408[TestNG-PoolService-4]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:18.025[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:18.114[TestNG-PoolService-4]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:18.217[TestNG-PoolService-4]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:19.616[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:19.777[TestNG-PoolService-4]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:19.928[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:19.954[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:19.960[TestNG-PoolService-7]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:19.960[TestNG-PoolService-0]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:19.988[TestNG-PoolService-7]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:20.512[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:20.605[TestNG-PoolService-7]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:20.791[TestNG-PoolService-7]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:21.026[TestNG-PoolService-5]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:20.793[TestNG-PoolService-5]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:20.797[TestNG-PoolService-9]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:21.068[TestNG-PoolService-5]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:21.298[TestNG-PoolService-9]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:21.573[TestNG-PoolService-0]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:21.778[TestNG-PoolService-5]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:22.060[TestNG-PoolService-9]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:22.439[TestNG-PoolService-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:22.462[TestNG-PoolService-9]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:22.477[TestNG-PoolService-5]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:22.491[TestNG-PoolService-5]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:22.586[TestNG-PoolService-6]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:22.607[TestNG-PoolService-9]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:22.607[TestNG-PoolService-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:22.971[TestNG-PoolService-0]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:24.407[TestNG-PoolService-6]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:24.407[TestNG-PoolService-1]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:25.732[TestNG-PoolService-9]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:25.738[TestNG-PoolService-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:25.740[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:25.742[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:25.825[TestNG-PoolService-6]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:25.955[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:26.016[TestNG-PoolService-6]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:26.026[TestNG-PoolService-0]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:26.302[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:27.431[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:28.987[TestNG-PoolService-7]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:29.009[TestNG-PoolService-0]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:29.011[TestNG-PoolService-5]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:29.125[TestNG-PoolService-5]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:29.359[TestNG-PoolService-0]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:29.527[TestNG-PoolService-4]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:29.569[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:30.214[TestNG-PoolService-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:31.603[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:31.676[TestNG-PoolService-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:31.700[TestNG-PoolService-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:32.851[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:32.853[TestNG-PoolService-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:33.841[TestNG-PoolService-0]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:34.390[TestNG-PoolService-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:34.390[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:36.242[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:36.244[TestNG-PoolService-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:36.244[TestNG-PoolService-7]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:36.271[TestNG-PoolService-0]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:36.398[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:36.440[TestNG-PoolService-4]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:36.444[TestNG-PoolService-9]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:36.509[TestNG-PoolService-4]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:37.541[TestNG-PoolService-0]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:37.541[TestNG-PoolService-9]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:39.240[TestNG-PoolService-0]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:40.056[TestNG-PoolService-6]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:40.056[TestNG-PoolService-6]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:40.056[TestNG-PoolService-6]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:40.056[TestNG-PoolService-6]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:40.056[TestNG-PoolService-6]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:40.056[TestNG-PoolService-6]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:40.059[TestNG-PoolService-6]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:40.059[TestNG-PoolService-6]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:40.059[TestNG-PoolService-6]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:40.360[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:40.368[TestNG-PoolService-8]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:40.368[TestNG-PoolService-8]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:40.368[TestNG-PoolService-8]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:42.016[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:42.127[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:42.162[TestNG-PoolService-4]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:45.302[TestNG-PoolService-5]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:45.939[TestNG-PoolService-5]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:45.940[TestNG-PoolService-5]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:45.972[TestNG-PoolService-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:45.456[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:47.621[TestNG-PoolService-1]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:47.623[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:47.833[TestNG-PoolService-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:47.978[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:48.072[TestNG-PoolService-4]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:48.072[TestNG-PoolService-4]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:48.072[TestNG-PoolService-4]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:47.840[TestNG-PoolService-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:48.460[TestNG-PoolService-0]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:48.479[TestNG-PoolService-0]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:49.155[TestNG-PoolService-5]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:49.155[TestNG-PoolService-5]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:49.155[TestNG-PoolService-5]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:49.167[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:49.167[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:49.169[TestNG-PoolService-9]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:49.169[TestNG-PoolService-9]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:49.169[TestNG-PoolService-9]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:49.975[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:50.254[TestNG-PoolService-7]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:50.332[TestNG-PoolService-7]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:50.332[TestNG-PoolService-7]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:50.334[TestNG-PoolService-7]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:50.593[TestNG-PoolService-0]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:50.593[TestNG-PoolService-0]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:50.593[TestNG-PoolService-0]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:51.175[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:51.175[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:51.182[TestNG-PoolService-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:51.182[TestNG-PoolService-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:51.182[TestNG-PoolService-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:51.393[TestNG-PoolService-4]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:51.394[TestNG-PoolService-4]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:51.394[TestNG-PoolService-4]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:51.394[TestNG-PoolService-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:51.396[TestNG-PoolService-7]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:51.400[TestNG-PoolService-7]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:51.400[TestNG-PoolService-9]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:26:51.547[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:26:51.740[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:51.762[TestNG-PoolService-7]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:52.038[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:53.627[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:53.655[TestNG-PoolService-1]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:53.657[TestNG-PoolService-1]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:53.661[TestNG-PoolService-1]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:54.421[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:54.427[TestNG-PoolService-3]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:54.427[TestNG-PoolService-3]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:54.429[TestNG-PoolService-3]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:54.756[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:55.405[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:26:55.771[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:26:56.592[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:26:57.815[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:26:57.876[TestNG-PoolService-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:26:58.594[TestNG-PoolService-9]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:58.596[TestNG-PoolService-9]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:58.596[TestNG-PoolService-9]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:58.602[TestNG-PoolService-0]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:26:58.602[TestNG-PoolService-0]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:26:58.602[TestNG-PoolService-0]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:26:58.889[TestNG-PoolService-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:26:58.892[TestNG-PoolService-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:00.937[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:27:02.124[TestNG-PoolService-7]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:27:02.211[TestNG-PoolService-9]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:27:02.635[TestNG-PoolService-7]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:03.575[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:03.685[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:27:08.499[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:08.641[TestNG-PoolService-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:27:08.922[TestNG-PoolService-3]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:08.924[TestNG-PoolService-3]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:08.924[TestNG-PoolService-3]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:09.446[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:10.902[TestNG-PoolService-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:11.494[TestNG-PoolService-4]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:27:15.838[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:16.389[TestNG-PoolService-9]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:27:17.875[TestNG-PoolService-7]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:17.875[TestNG-PoolService-7]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:17.875[TestNG-PoolService-7]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:18.145[TestNG-PoolService-9]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:22.920[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:23.275[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:27:23.720[TestNG-PoolService-4]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:27:23.743[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:23.788[TestNG-PoolService-4]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:27.080[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:29.459[TestNG-PoolService-7]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:29.459[TestNG-PoolService-7]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:29.459[TestNG-PoolService-7]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:30.341[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:32.021[TestNG-PoolService-4]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:32.021[TestNG-PoolService-4]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:32.022[TestNG-PoolService-4]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:32.084[TestNG-PoolService-8]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:32.084[TestNG-PoolService-8]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:32.084[TestNG-PoolService-8]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:32.293[TestNG-PoolService-1]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:32.293[TestNG-PoolService-1]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:32.293[TestNG-PoolService-1]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:35.047[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:36.069[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:36.079[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:27:36.162[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:27:36.964[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:37.416[TestNG-PoolService-8]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:37.487[TestNG-PoolService-8]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:37.487[TestNG-PoolService-8]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:37.572[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:27:37.785[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:38.061[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:38.168[TestNG-PoolService-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:38.168[TestNG-PoolService-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:38.168[TestNG-PoolService-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:38.320[TestNG-PoolService-1]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:27:38.715[TestNG-PoolService-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:27:38.932[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:27:38.936[TestNG-PoolService-9]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button color and styling
+[INFO ]2026-04-0118:27:39.956[TestNG-PoolService-7]utils.LoggerLoad1)-Screenshot captured for failed scenario: Password input field presence
+[INFO ]2026-04-0118:27:40.274[TestNG-PoolService-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:27:40.305[TestNG-PoolService-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:27:43.235[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:43.383[TestNG-PoolService-1]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:43.383[TestNG-PoolService-1]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:43.383[TestNG-PoolService-1]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:44.617[TestNG-PoolService-7]utils.LoggerLoad1)-Screenshot captured for failed scenario: Password input field presence
+[INFO ]2026-04-0118:27:45.790[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:45.794[TestNG-PoolService-5]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:45.794[TestNG-PoolService-5]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:45.794[TestNG-PoolService-5]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:45.919[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:48.804[TestNG-PoolService-8]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button presence
+[INFO ]2026-04-0118:27:49.507[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:49.516[TestNG-PoolService-0]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:49.516[TestNG-PoolService-0]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:49.516[TestNG-PoolService-0]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:49.549[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:49.685[TestNG-PoolService-7]utils.LoggerLoad1)-Screenshot captured for failed scenario: Password input field presence
+[INFO ]2026-04-0118:27:49.984[TestNG-PoolService-1]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-04-0118:27:50.321[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:50.352[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:50.517[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:50.524[TestNG-PoolService-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:50.531[TestNG-PoolService-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:50.539[TestNG-PoolService-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:50.589[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:51.512[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:51.520[TestNG-PoolService-3]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:51.522[TestNG-PoolService-3]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:51.522[TestNG-PoolService-3]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:51.560[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:51.780[TestNG-PoolService-8]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button presence
+[INFO ]2026-04-0118:27:51.780[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:51.991[TestNG-PoolService-6]utils.LoggerLoad1)-Screenshot captured for failed scenario: Username input field presence
+[INFO ]2026-04-0118:27:52.419[TestNG-PoolService-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-04-0118:27:52.756[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:54.167[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:54.169[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:55.953[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:57.147[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:57.366[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:58.575[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:58.886[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:59.475[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:27:59.516[TestNG-PoolService-5]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for second field
+[INFO ]2026-04-0118:27:59.758[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:27:59.766[TestNG-PoolService-9]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:27:59.766[TestNG-PoolService-9]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:27:59.766[TestNG-PoolService-9]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:27:59.972[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:28:01.670[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:28:06.129[TestNG-PoolService-5]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for second field
+[INFO ]2026-04-0118:28:06.899[TestNG-PoolService-4]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for first field
+[INFO ]2026-04-0118:28:06.934[TestNG-PoolService-0]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-04-0118:28:07.163[TestNG-PoolService-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-04-0118:28:07.883[TestNG-PoolService-4]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for first field
+[INFO ]2026-04-0118:28:07.884[TestNG-PoolService-3]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[INFO ]2026-04-0118:28:07.890[TestNG-PoolService-0]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-04-0118:28:08.420[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:28:12.564[TestNG-PoolService-6]utils.LoggerLoad1)-Screenshot captured for failed scenario: Username input field presence
+[INFO ]2026-04-0118:28:12.664[TestNG-PoolService-7]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:12.668[TestNG-PoolService-9]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:14.602[TestNG-PoolService-9]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:14.602[TestNG-PoolService-9]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:14.603[TestNG-PoolService-9]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:14.603[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:14.605[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:14.624[TestNG-PoolService-7]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:14.624[TestNG-PoolService-7]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:14.628[TestNG-PoolService-7]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:14.628[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:14.631[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[ERROR]2026-04-0118:28:15.380[TestNG-PoolService-9]utils.LoggerLoad1)-Screenshot IOException: .\target\screenshots\Login button color and styling.png: The process cannot access the file because it is being used by another process
+[INFO ]2026-04-0118:28:17.053[TestNG-PoolService-7]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:17.333[TestNG-PoolService-9]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button color and styling
+[INFO ]2026-04-0118:28:17.346[TestNG-PoolService-9]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button color and styling
+[INFO ]2026-04-0118:28:17.434[TestNG-PoolService-0]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-04-0118:28:17.466[TestNG-PoolService-4]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for first field
+[INFO ]2026-04-0118:28:17.547[TestNG-PoolService-1]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-04-0118:28:17.589[TestNG-PoolService-6]utils.LoggerLoad1)-Screenshot captured for failed scenario: Username input field presence
+[INFO ]2026-04-0118:28:17.619[TestNG-PoolService-1]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar home icon visibility
+[INFO ]2026-04-0118:28:17.653[TestNG-PoolService-3]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[INFO ]2026-04-0118:28:17.653[TestNG-PoolService-7]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:17.653[TestNG-PoolService-7]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:17.653[TestNG-PoolService-7]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:17.653[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:17.653[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:17.759[TestNG-PoolService-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar background colour
+[INFO ]2026-04-0118:28:20.190[TestNG-PoolService-8]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:20.528[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:20.585[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:20.585[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:20.585[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:20.585[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:21.430[TestNG-PoolService-1]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:21.764[TestNG-PoolService-7]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:22.067[TestNG-PoolService-6]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:22.317[TestNG-PoolService-5]utils.LoggerLoad1)-Screenshot captured for failed scenario: label for second field
+[INFO ]2026-04-0118:28:22.340[TestNG-PoolService-6]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:22.340[TestNG-PoolService-6]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:22.340[TestNG-PoolService-6]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:22.340[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:22.340[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:22.436[TestNG-PoolService-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:22.436[TestNG-PoolService-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:22.437[TestNG-PoolService-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:22.437[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:22.437[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.171[TestNG-PoolService-6]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:23.299[TestNG-PoolService-8]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:23.316[TestNG-PoolService-6]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:23.316[TestNG-PoolService-6]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:23.316[TestNG-PoolService-6]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:23.316[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.316[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.334[TestNG-PoolService-7]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:23.423[TestNG-PoolService-8]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button presence
+[INFO ]2026-04-0118:28:23.456[TestNG-PoolService-7]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:23.456[TestNG-PoolService-7]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:23.458[TestNG-PoolService-7]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:23.458[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.458[TestNG-PoolService-7]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.614[TestNG-PoolService-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:23.698[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:23.698[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:23.698[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:23.698[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.698[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.772[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:23.772[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:23.772[TestNG-PoolService-9]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:23.772[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:23.773[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.774[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:23.784[TestNG-PoolService-7]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:23.847[TestNG-PoolService-7]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:23.988[TestNG-PoolService-9]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:24.023[TestNG-PoolService-7]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:24.422[TestNG-PoolService-7]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:24.442[TestNG-PoolService-7]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:24.449[TestNG-PoolService-7]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:24.453[TestNG-PoolService-7]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:24.454[TestNG-PoolService-9]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:24.457[TestNG-PoolService-9]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:26.926[TestNG-PoolService-3]utils.LoggerLoad1)-Screenshot captured for failed scenario: Page title visibility
+[INFO ]2026-04-0118:28:28.795[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:28:28.949[TestNG-PoolService-7]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:28:28.949[TestNG-PoolService-7]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:28:28.949[TestNG-PoolService-7]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:28:28.963[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:28:29.095[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:28:29.104[TestNG-PoolService-7]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:28:29.104[TestNG-PoolService-7]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:28:29.104[TestNG-PoolService-7]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:28:29.127[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:28:29.186[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:28:29.315[TestNG-PoolService-9]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:28:29.315[TestNG-PoolService-9]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:28:29.315[TestNG-PoolService-9]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:28:29.350[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:28:30.585[TestNG-PoolService-5]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:30.643[TestNG-PoolService-5]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:30.643[TestNG-PoolService-5]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:30.644[TestNG-PoolService-5]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:30.644[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:30.644[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:35.391[TestNG-PoolService-4]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:37.827[TestNG-PoolService-5]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:37.965[TestNG-PoolService-4]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:37.965[TestNG-PoolService-4]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:37.965[TestNG-PoolService-4]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:37.965[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:37.965[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:38.130[TestNG-PoolService-5]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:38.131[TestNG-PoolService-5]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:38.131[TestNG-PoolService-5]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:38.131[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:38.131[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:38.283[TestNG-PoolService-0]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:38.335[TestNG-PoolService-4]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:38.595[TestNG-PoolService-0]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:38.595[TestNG-PoolService-0]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:38.595[TestNG-PoolService-0]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:38.595[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:38.595[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:38.616[TestNG-PoolService-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:39.213[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:39.213[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:39.213[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:39.213[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:39.213[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:39.847[TestNG-PoolService-0]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:39.979[TestNG-PoolService-3]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:40.237[TestNG-PoolService-6]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:40.477[TestNG-PoolService-4]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:40.477[TestNG-PoolService-4]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:40.477[TestNG-PoolService-4]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:40.477[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:40.477[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:40.645[TestNG-PoolService-0]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:40.645[TestNG-PoolService-0]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:40.645[TestNG-PoolService-0]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:40.645[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:40.645[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:40.782[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:40.834[TestNG-PoolService-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:40.834[TestNG-PoolService-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:40.842[TestNG-PoolService-6]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:40.902[TestNG-PoolService-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:40.902[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:40.902[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:41.157[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:41.224[TestNG-PoolService-7]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:41.887[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:42.470[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:42.470[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:42.606[TestNG-PoolService-6]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:42.707[TestNG-PoolService-5]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:43.085[TestNG-PoolService-6]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:43.376[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:43.401[TestNG-PoolService-1]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:43.412[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:43.459[TestNG-PoolService-7]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:43.514[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:43.667[TestNG-PoolService-5]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:43.669[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:43.895[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:44.136[TestNG-PoolService-5]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:44.254[TestNG-PoolService-6]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:44.260[TestNG-PoolService-6]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:44.283[TestNG-PoolService-5]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:44.550[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:44.649[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:45.056[TestNG-PoolService-6]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:45.082[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:28:45.129[TestNG-PoolService-5]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:28:45.129[TestNG-PoolService-5]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:28:45.129[TestNG-PoolService-5]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:28:45.140[TestNG-PoolService-6]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:45.150[TestNG-PoolService-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:45.163[TestNG-PoolService-7]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:45.231[TestNG-PoolService-7]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:46.526[TestNG-PoolService-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:46.532[TestNG-PoolService-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:47.517[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:28:48.526[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:28:48.534[TestNG-PoolService-6]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:28:48.536[TestNG-PoolService-6]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:28:48.536[TestNG-PoolService-6]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:28:48.934[TestNG-PoolService-1]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:28:48.934[TestNG-PoolService-1]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:28:48.934[TestNG-PoolService-1]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:28:49.116[TestNG-PoolService-6]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:49.170[TestNG-PoolService-6]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:49.170[TestNG-PoolService-6]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:49.170[TestNG-PoolService-6]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:49.170[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.170[TestNG-PoolService-6]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.255[TestNG-PoolService-1]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:49.267[TestNG-PoolService-9]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:49.348[TestNG-PoolService-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:49.348[TestNG-PoolService-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:49.348[TestNG-PoolService-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:49.348[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.348[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.360[TestNG-PoolService-9]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:49.362[TestNG-PoolService-9]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:49.362[TestNG-PoolService-9]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:49.362[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.362[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.663[TestNG-PoolService-4]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:49.698[TestNG-PoolService-4]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:49.698[TestNG-PoolService-4]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:49.698[TestNG-PoolService-4]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:49.698[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.700[TestNG-PoolService-4]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:49.752[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:28:49.791[TestNG-PoolService-0]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:49.850[TestNG-PoolService-9]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:50.267[TestNG-PoolService-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:50.311[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:28:50.349[TestNG-PoolService-3]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:50.475[TestNG-PoolService-1]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:52.328[TestNG-PoolService-8]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:28:52.328[TestNG-PoolService-8]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:28:52.648[TestNG-PoolService-8]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:28:52.670[TestNG-PoolService-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:52.672[TestNG-PoolService-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:52.672[TestNG-PoolService-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:52.672[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:52.672[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:52.992[TestNG-PoolService-9]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:52.992[TestNG-PoolService-9]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:52.992[TestNG-PoolService-9]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:52.992[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:52.992[TestNG-PoolService-9]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:53.265[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:53.265[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:53.265[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:53.265[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:53.267[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:53.269[TestNG-PoolService-5]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:54.780[TestNG-PoolService-5]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:55.320[TestNG-PoolService-5]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:55.662[TestNG-PoolService-8]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:55.699[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:55.699[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:55.699[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:55.699[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:55.699[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:56.034[TestNG-PoolService-0]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:56.034[TestNG-PoolService-0]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:56.036[TestNG-PoolService-0]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:56.036[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:56.036[TestNG-PoolService-0]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:57.162[TestNG-PoolService-5]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:28:57.164[TestNG-PoolService-5]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:28:57.282[TestNG-PoolService-0]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:28:57.329[TestNG-PoolService-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:57.329[TestNG-PoolService-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:57.329[TestNG-PoolService-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:57.329[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:57.329[TestNG-PoolService-1]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:57.730[TestNG-PoolService-5]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:57.730[TestNG-PoolService-5]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:57.732[TestNG-PoolService-5]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:57.732[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:57.732[TestNG-PoolService-5]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:58.230[TestNG-PoolService-3]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:28:58.265[TestNG-PoolService-0]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:28:58.292[TestNG-PoolService-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:28:58.292[TestNG-PoolService-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:28:58.292[TestNG-PoolService-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:28:58.292[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:28:58.292[TestNG-PoolService-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:29:00.246[TestNG-PoolService-0]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:00.319[TestNG-PoolService-0]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:00.677[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:01.351[TestNG-PoolService-5]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:01.351[TestNG-PoolService-5]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:01.351[TestNG-PoolService-5]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:02.726[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:02.730[TestNG-PoolService-0]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:02.730[TestNG-PoolService-0]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:02.730[TestNG-PoolService-0]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:08.068[TestNG-PoolService-4]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:08.273[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:08.535[TestNG-PoolService-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:08.616[TestNG-PoolService-4]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:08.737[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:08.820[TestNG-PoolService-4]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:08.933[TestNG-PoolService-0]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:09.216[TestNG-PoolService-4]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:09.220[TestNG-PoolService-4]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:09.431[TestNG-PoolService-4]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:09.515[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:09.566[TestNG-PoolService-0]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:09.567[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:10.300[TestNG-PoolService-0]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:10.309[TestNG-PoolService-0]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:10.315[TestNG-PoolService-4]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:10.317[TestNG-PoolService-4]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:10.969[TestNG-PoolService-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:11.209[TestNG-PoolService-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:11.218[TestNG-PoolService-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:12.513[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:13.697[TestNG-PoolService-8]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:13.697[TestNG-PoolService-8]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:13.697[TestNG-PoolService-8]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:13.814[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:15.232[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:15.234[TestNG-PoolService-5]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:15.273[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:16.042[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:16.063[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:16.063[TestNG-PoolService-1]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:16.168[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:16.168[TestNG-PoolService-5]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:18.601[TestNG-PoolService-7]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:18.611[TestNG-PoolService-7]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:18.647[TestNG-PoolService-7]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:19.280[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:19.464[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:19.929[TestNG-PoolService-7]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:20.174[TestNG-PoolService-4]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:20.174[TestNG-PoolService-4]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:20.174[TestNG-PoolService-4]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:20.200[TestNG-PoolService-4]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:20.200[TestNG-PoolService-4]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:20.200[TestNG-PoolService-4]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:20.413[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:29:20.415[TestNG-PoolService-4]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:20.419[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:20.423[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:20.423[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:29:20.427[TestNG-PoolService-6]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:20.427[TestNG-PoolService-6]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:20.427[TestNG-PoolService-6]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:20.438[TestNG-PoolService-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:20.438[TestNG-PoolService-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:20.438[TestNG-PoolService-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:20.441[TestNG-PoolService-4]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:20.545[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:20.546[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:21.484[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:21.493[TestNG-PoolService-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:21.493[TestNG-PoolService-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:21.493[TestNG-PoolService-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:21.553[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:29:21.555[TestNG-PoolService-2]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:22.767[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:22.977[TestNG-PoolService-3]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:22.979[TestNG-PoolService-3]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:22.979[TestNG-PoolService-3]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:25.130[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:25.301[TestNG-PoolService-0]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:25.301[TestNG-PoolService-0]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:25.301[TestNG-PoolService-0]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:28.044[TestNG-PoolService-9]utils.LoggerLoad1)-Screenshot captured for failed scenario: Input field label alignment
+[INFO ]2026-04-0118:29:41.050[TestNG-PoolService-8]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button enabled state
+[INFO ]2026-04-0118:29:41.386[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:41.388[TestNG-PoolService-0]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:45.879[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:45.879[TestNG-PoolService-0]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:45.955[TestNG-PoolService-4]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:46.365[TestNG-PoolService-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with non-existing user
+[INFO ]2026-04-0118:29:46.559[TestNG-PoolService-6]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:47.593[TestNG-PoolService-8]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button enabled state
+[INFO ]2026-04-0118:29:47.637[TestNG-PoolService-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:47.841[TestNG-PoolService-3]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:29:47.842[TestNG-PoolService-3]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:49.457[TestNG-PoolService-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:51.238[TestNG-PoolService-6]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:51.625[TestNG-PoolService-1]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:51.717[TestNG-PoolService-4]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:51.920[TestNG-PoolService-6]utils.LoggerLoad1)-Screenshot captured for failed scenario: Total number of input fields
+[INFO ]2026-04-0118:29:51.934[TestNG-PoolService-7]utils.LoggerLoad1)-Screenshot captured for failed scenario: Total number of input fields
+[INFO ]2026-04-0118:29:52.047[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:52.104[TestNG-PoolService-7]utils.LoggerLoad1)-Screenshot captured for failed scenario: Input field label alignment
+[INFO ]2026-04-0118:29:52.563[TestNG-PoolService-8]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:29:53.573[TestNG-PoolService-4]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:53.591[TestNG-PoolService-6]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:53.597[TestNG-PoolService-4]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:53.613[TestNG-PoolService-6]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:53.626[TestNG-PoolService-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:53.746[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:53.771[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:29:53.771[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:29:53.771[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:29:53.771[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:29:53.773[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:29:53.987[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:54.000[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:54.802[TestNG-PoolService-5]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:54.828[TestNG-PoolService-9]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:54.839[TestNG-PoolService-0]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:54.972[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[ERROR]2026-04-0118:29:55.002[TestNG-PoolService-8]utils.LoggerLoad1)-Error while launching browser: tab crashed
+  (Session info: MicrosoftEdge=146.0.3856.72) (error code: "tab crashed")
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d6d52ceb317fe056a81cefa96302fabb, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.72, fedcm:accounts: true, goog:processID: 23092, ms:edgeOptions: {debuggerAddress: localhost:55386}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\jimre\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55386/devtoo..., se:cdpVersion: 146.0.3856.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6d52ceb317fe056a81cefa96302fabb
+[INFO ]2026-04-0118:29:55.045[TestNG-PoolService-5]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:55.056[TestNG-PoolService-9]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:55.231[TestNG-PoolService-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:55.240[TestNG-PoolService-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:55.373[TestNG-PoolService-9]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:55.390[TestNG-PoolService-9]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:55.390[TestNG-PoolService-5]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:55.394[TestNG-PoolService-5]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:55.553[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:55.679[TestNG-PoolService-0]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:56.607[TestNG-PoolService-0]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:56.612[TestNG-PoolService-0]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:56.914[TestNG-PoolService-1]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:56.914[TestNG-PoolService-1]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:56.915[TestNG-PoolService-1]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:56.991[TestNG-PoolService-8]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:29:56.993[TestNG-PoolService-8]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:29:56.993[TestNG-PoolService-8]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:29:56.993[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:29:56.995[TestNG-PoolService-8]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:29:57.117[TestNG-PoolService-9]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:29:57.131[TestNG-PoolService-9]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:29:57.339[TestNG-PoolService-9]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:29:57.347[TestNG-PoolService-9]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:29:57.604[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:57.606[TestNG-PoolService-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:57.606[TestNG-PoolService-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:57.606[TestNG-PoolService-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:57.872[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:58.040[TestNG-PoolService-5]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:58.040[TestNG-PoolService-5]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:58.040[TestNG-PoolService-5]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:58.199[TestNG-PoolService-6]utils.LoggerLoad1)-Screenshot captured for failed scenario: Total number of input fields
+[INFO ]2026-04-0118:29:58.241[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to URL: data:,
+[INFO ]2026-04-0118:29:58.241[TestNG-PoolService-2]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:58.243[TestNG-PoolService-5]utils.LoggerLoad1)-Navigated to URL: data:,
+[INFO ]2026-04-0118:29:58.244[TestNG-PoolService-5]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:59.035[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:29:59.073[TestNG-PoolService-4]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:29:59.073[TestNG-PoolService-4]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:29:59.073[TestNG-PoolService-4]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:29:59.091[TestNG-PoolService-4]utils.LoggerLoad1)-Navigated to URL: data:,
+[INFO ]2026-04-0118:29:59.094[TestNG-PoolService-4]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:29:59.272[TestNG-PoolService-9]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:01.731[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:30:01.742[TestNG-PoolService-9]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:30:01.746[TestNG-PoolService-9]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:30:01.746[TestNG-PoolService-9]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:30:01.830[TestNG-PoolService-1]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:30:01.830[TestNG-PoolService-1]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:02.211[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:30:02.215[TestNG-PoolService-0]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:30:02.229[TestNG-PoolService-0]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:30:02.229[TestNG-PoolService-0]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:30:02.243[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:30:02.243[TestNG-PoolService-9]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:02.227[TestNG-PoolService-0]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in user name
+[INFO ]2026-04-0118:30:06.144[TestNG-PoolService-0]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in user name
+[INFO ]2026-04-0118:30:08.010[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:30:08.018[TestNG-PoolService-9]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:30:08.018[TestNG-PoolService-9]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:30:08.018[TestNG-PoolService-9]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:30:08.810[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:30:08.822[TestNG-PoolService-6]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:30:08.822[TestNG-PoolService-6]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:30:08.822[TestNG-PoolService-6]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:30:10.496[TestNG-PoolService-6]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:30:10.596[TestNG-PoolService-6]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:12.553[TestNG-PoolService-9]utils.LoggerLoad1)-Navigated to URL: data:,
+[INFO ]2026-04-0118:30:12.556[TestNG-PoolService-9]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:16.023[TestNG-PoolService-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in password field
+[INFO ]2026-04-0118:30:17.522[TestNG-PoolService-5]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with valid credential
+[INFO ]2026-04-0118:30:17.555[TestNG-PoolService-4]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with valid credential
+[INFO ]2026-04-0118:30:17.586[TestNG-PoolService-4]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with wrong password in password field
+[INFO ]2026-04-0118:30:17.603[TestNG-PoolService-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:17.990[TestNG-PoolService-5]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with non-existing user
+[INFO ]2026-04-0118:30:18.114[TestNG-PoolService-1]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with valid credential
+[INFO ]2026-04-0118:30:18.262[TestNG-PoolService-3]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with only few charac of username
+[INFO ]2026-04-0118:30:18.262[TestNG-PoolService-7]utils.LoggerLoad1)-Screenshot captured for failed scenario: Input field label alignment
+[INFO ]2026-04-0118:30:18.266[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:30:18.448[TestNG-PoolService-5]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty username field
+[INFO ]2026-04-0118:30:18.469[TestNG-PoolService-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0118:30:18.469[TestNG-PoolService-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0118:30:18.470[TestNG-PoolService-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0118:30:18.470[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:30:18.470[TestNG-PoolService-2]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0118:30:18.919[TestNG-PoolService-8]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:19.122[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:30:19.251[TestNG-PoolService-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login button enabled state
+[INFO ]2026-04-0118:30:19.610[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:30:19.626[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:30:20.013[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:30:20.023[TestNG-PoolService-8]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:30:20.023[TestNG-PoolService-8]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:30:20.023[TestNG-PoolService-8]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:30:21.849[TestNG-PoolService-8]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:30:22.050[TestNG-PoolService-8]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:30:22.260[TestNG-PoolService-8]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:30:22.264[TestNG-PoolService-8]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:30:22.624[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:30:22.632[TestNG-PoolService-8]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:30:22.632[TestNG-PoolService-8]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:30:22.632[TestNG-PoolService-8]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:30:23.421[TestNG-PoolService-7]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:23.676[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:30:23.676[TestNG-PoolService-8]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:23.747[TestNG-PoolService-8]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:30:23.748[TestNG-PoolService-8]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:23.772[TestNG-PoolService-6]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:23.990[TestNG-PoolService-7]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:26.114[TestNG-PoolService-2]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0118:30:26.258[TestNG-PoolService-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0118:30:26.461[TestNG-PoolService-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0118:30:26.467[TestNG-PoolService-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0118:30:26.771[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0118:30:26.784[TestNG-PoolService-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0118:30:26.784[TestNG-PoolService-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0118:30:26.784[TestNG-PoolService-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0118:30:27.531[TestNG-PoolService-9]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in user name
+[INFO ]2026-04-0118:30:28.590[TestNG-PoolService-2]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0118:30:28.590[TestNG-PoolService-2]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:29.395[TestNG-PoolService-6]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:31.051[TestNG-PoolService-0]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0118:30:31.052[TestNG-PoolService-0]utils.LoggerLoad1)-User is on the login page of Dietician application
+[INFO ]2026-04-0118:30:32.557[TestNG-PoolService-1]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with wrong password in password field
+[INFO ]2026-04-0118:30:36.154[TestNG-PoolService-0]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:38.036[TestNG-PoolService-8]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty password field
+[INFO ]2026-04-0118:30:38.062[TestNG-PoolService-8]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty password field
+[INFO ]2026-04-0118:30:38.562[TestNG-PoolService-0]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:39.593[TestNG-PoolService-9]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in password field
+[INFO ]2026-04-0118:30:41.358[TestNG-PoolService-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with empty password field
+[INFO ]2026-04-0118:30:41.380[TestNG-PoolService-4]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with non-existing user
+[INFO ]2026-04-0118:30:43.038[TestNG-PoolService-9]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:43.129[TestNG-PoolService-6]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with only few charac of username
+[INFO ]2026-04-0118:30:43.672[TestNG-PoolService-0]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with only few charac of username
+[INFO ]2026-04-0118:30:45.351[TestNG-PoolService-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[ERROR]2026-04-0118:30:45.604[TestNG-PoolService-3]utils.LoggerLoad1)-Error while launching browser: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: MicrosoftEdge=146.0.3856.72)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [45246248e8ef4f02bdbc65bc3f859e96, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.72, fedcm:accounts: true, goog:processID: 60968, ms:edgeOptions: {debuggerAddress: localhost:53914}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\jimre\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53914/devtoo..., se:cdpVersion: 146.0.3856.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 45246248e8ef4f02bdbc65bc3f859e96
+[INFO ]2026-04-0118:30:46.447[TestNG-PoolService-0]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:46.858[TestNG-PoolService-8]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:46.985[TestNG-PoolService-5]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:47.129[TestNG-PoolService-8]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[ERROR]2026-04-0118:30:47.380[TestNG-PoolService-1]utils.LoggerLoad1)-Error while launching browser: Could not start a new session. Response code 404. Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: MicrosoftEdge=146.0.3856.72) 
+Host info: host: 'KAITLYN', ip: '192.168.0.20'
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+[INFO ]2026-04-0118:30:47.437[TestNG-PoolService-4]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[WARN ]2026-04-0118:30:47.481[TestNG-PoolService-1]utils.LoggerLoad1)-WebDriver instance is null. Cannot take screenshot.
+[INFO ]2026-04-0118:30:47.482[TestNG-PoolService-1]utils.LoggerLoad1)-Screenshot captured for failed scenario: Login with spl charac in password field
+[INFO ]2026-04-0118:30:47.651[TestNG-PoolService-9]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:47.659[TestNG-PoolService-1]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:47.667[TestNG-PoolService-6]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:48.618[TestNG-PoolService-5]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:48.648[TestNG-PoolService-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:48.681[TestNG-PoolService-4]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:49.197[TestNG-PoolService-5]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:49.241[TestNG-PoolService-1]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:49.624[TestNG-PoolService-3]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:49.666[TestNG-PoolService-7]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:49.936[TestNG-PoolService-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:30:57.185[TestNG-PoolService-4]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0118:32:35.383[TestNG-PoolService-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[ERROR]2026-04-0118:32:35.393[TestNG-PoolService-3]utils.LoggerLoad1)-Error while launching browser: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.72)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5c555652bac6ae99ec852fdcaa72d606, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.72, fedcm:accounts: true, goog:processID: 628, ms:edgeOptions: {debuggerAddress: localhost:64556}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\jimre\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64556/devtoo..., se:cdpVersion: 146.0.3856.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c555652bac6ae99ec852fdcaa72d606
