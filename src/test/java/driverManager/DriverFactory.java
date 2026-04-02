@@ -25,7 +25,7 @@ public class DriverFactory {
 			if (browser.equalsIgnoreCase("Chrome")) {
 				ChromeOptions co = new ChromeOptions();
 
-//				co.addArguments("--headless=new");
+				co.addArguments("--headless=new");
 				co.setPageLoadStrategy(PageLoadStrategy.NORMAL);
 
 				driver = new ChromeDriver(co);
@@ -33,13 +33,24 @@ public class DriverFactory {
 				LoggerLoad.info("Chrome browser launched successfully.");
 			} else if (browser.equalsIgnoreCase("Firefox")) {
 				FirefoxOptions fo = new FirefoxOptions();
-//				fo.addArguments("-headless"); // Firefox uses a single dash
+				fo.addArguments("-headless"); // Firefox uses a single dash
 				driver = new FirefoxDriver(fo);
 				mydriver.set(driver);
 				LoggerLoad.info("Firefox browser launched successfully.");
 			} else if (browser.equalsIgnoreCase("Edge")) {
 				EdgeOptions eo = new EdgeOptions();
 //				eo.addArguments("--headless=new"); // Edge is Chromium-based
+				// 1. Mandatory for Jenkins: Runs without a UI window
+				eo.addArguments("--headless=new"); 
+
+				// 2. Bypasses the OS security model (Crucial for Jenkins/Linux/Docker)
+				eo.addArguments("--no-sandbox"); 
+
+				// 3. Prevents crashes in resource-constrained environments
+				eo.addArguments("--disable-dev-shm-usage"); 
+
+				// 4. Solves the "DevToolsActivePort" error specifically
+				eo.addArguments("--remote-allow-origins=*");
 				driver = new EdgeDriver(eo);
 				mydriver.set(driver);
 				LoggerLoad.info("Edge browser launched successfully.");
