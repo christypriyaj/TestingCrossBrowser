@@ -26,7 +26,7 @@ public class TestRunner extends AbstractTestNGCucumberTests {
 	public static ThreadLocal<String> browserName = new ThreadLocal<>();
     @Parameters("browser")
     @BeforeClass
-    public void setBrowser(String browser) {
+    public void setBrowser(@Optional("chrome")String browser) {
         browserName.set(browser);
     }
 }
