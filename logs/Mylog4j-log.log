@@ -1202,3 +1202,84 @@ Driver info: org.openqa.selenium.edge.EdgeDriver
 Command: [5c555652bac6ae99ec852fdcaa72d606, maximizeCurrentWindow {}]
 Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.72, fedcm:accounts: true, goog:processID: 628, ms:edgeOptions: {debuggerAddress: localhost:64556}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\jimre\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64556/devtoo..., se:cdpVersion: 146.0.3856.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: 5c555652bac6ae99ec852fdcaa72d606
+[INFO ]2026-04-0119:45:48.623[TestNG-tests-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0119:45:48.623[TestNG-tests-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0119:45:48.623[TestNG-tests-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0119:45:48.629[TestNG-tests-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0119:45:48.629[TestNG-tests-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0119:45:48.630[TestNG-tests-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0119:45:48.651[TestNG-tests-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0119:45:48.651[TestNG-tests-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0119:45:48.651[TestNG-tests-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0119:45:48.651[TestNG-tests-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0119:45:48.652[TestNG-tests-1]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0119:45:48.652[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
+[INFO ]2026-04-0119:45:48.661[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
+[INFO ]2026-04-0119:45:48.661[TestNG-tests-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0119:45:48.661[TestNG-tests-1]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0119:45:52.883[TestNG-tests-1]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-04-0119:45:53.000[TestNG-tests-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0119:45:53.145[TestNG-tests-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0119:45:53.184[TestNG-tests-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0119:45:53.206[TestNG-tests-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0119:45:53.223[TestNG-tests-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0119:45:53.418[TestNG-tests-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0119:45:53.494[TestNG-tests-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0119:45:53.755[TestNG-tests-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0119:45:53.795[TestNG-tests-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0119:45:59.274[TestNG-tests-3]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0119:45:59.274[TestNG-tests-1]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0119:45:59.274[TestNG-tests-3]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0119:45:59.274[TestNG-tests-1]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0119:45:59.274[TestNG-tests-3]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0119:45:59.274[TestNG-tests-1]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0119:46:00.712[TestNG-tests-1]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0119:46:00.895[TestNG-tests-3]utils.LoggerLoad1)-Navigated to URL: https://www.dot-health.org/articles/plant-based-nutrition-balanced-diet-guide.html?psystem=SN&domain=www.dietician.com&oref=https%3A%2F%2Fwww.dietician.com%2Flogin
+[INFO ]2026-04-0119:46:03.203[TestNG-tests-2]utils.LoggerLoad1)-Firefox browser launched successfully.
+[INFO ]2026-04-0119:46:03.217[TestNG-tests-2]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0119:46:03.240[TestNG-tests-2]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0119:46:03.259[TestNG-tests-2]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0119:46:03.675[TestNG-tests-2]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0119:46:03.692[TestNG-tests-2]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0119:46:03.693[TestNG-tests-2]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0119:46:03.693[TestNG-tests-2]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0119:46:03.735[TestNG-tests-2]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/login
+[INFO ]2026-04-0119:46:12.673[TestNG-tests-1]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-04-0119:46:13.056[TestNG-tests-1]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0119:46:13.138[TestNG-tests-1]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0119:46:13.138[TestNG-tests-1]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0119:46:13.139[TestNG-tests-1]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0119:46:13.139[TestNG-tests-1]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0119:46:13.139[TestNG-tests-1]utils.LoggerLoad1)-Launching browser: chrome
+[INFO ]2026-04-0119:46:13.357[TestNG-tests-3]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-04-0119:46:13.759[TestNG-tests-3]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0119:46:13.798[TestNG-tests-3]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0119:46:13.798[TestNG-tests-3]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0119:46:13.799[TestNG-tests-3]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0119:46:13.799[TestNG-tests-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0119:46:13.799[TestNG-tests-3]utils.LoggerLoad1)-Launching browser: edge
+[INFO ]2026-04-0119:46:14.745[TestNG-tests-1]utils.LoggerLoad1)-Chrome browser launched successfully.
+[INFO ]2026-04-0119:46:14.771[TestNG-tests-1]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0119:46:14.852[TestNG-tests-1]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0119:46:14.858[TestNG-tests-1]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0119:46:15.495[TestNG-tests-2]utils.LoggerLoad1)-Screenshot captured for failed scenario: Navigation bar text visibility
+[INFO ]2026-04-0119:46:16.061[TestNG-tests-1]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0119:46:16.080[TestNG-tests-1]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0119:46:16.082[TestNG-tests-1]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0119:46:16.086[TestNG-tests-1]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0119:46:16.361[TestNG-tests-1]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0119:46:16.919[TestNG-tests-3]utils.LoggerLoad1)-Edge browser launched successfully.
+[INFO ]2026-04-0119:46:17.023[TestNG-tests-3]utils.LoggerLoad1)-Deleted all browser cookies.
+[INFO ]2026-04-0119:46:17.173[TestNG-tests-3]utils.LoggerLoad1)-Browser window maximized.
+[INFO ]2026-04-0119:46:17.239[TestNG-tests-3]utils.LoggerLoad1)-Implicit wait set to 10 seconds.
+[INFO ]2026-04-0119:46:17.460[TestNG-tests-3]utils.LoggerLoad1)-Navigated to base URL: https://www.dietician.com/login
+[INFO ]2026-04-0119:46:17.505[TestNG-tests-3]utils.LoggerLoad1)-Checking if browser is initialized.
+[INFO ]2026-04-0119:46:17.505[TestNG-tests-3]utils.LoggerLoad1)-WebDriver is active.
+[INFO ]2026-04-0119:46:17.505[TestNG-tests-3]utils.LoggerLoad1)-Browser is open and ready
+[INFO ]2026-04-0119:46:18.561[TestNG-tests-3]utils.LoggerLoad1)-Navigated to URL: https://www.dietician.com/lander
+[INFO ]2026-04-0119:46:19.951[TestNG-tests-2]utils.LoggerLoad1)-Driver quit and removed from ThreadLocal.
+[INFO ]2026-04-0119:46:19.996[TestNG-tests-2]utils.LoggerLoad1)-Initializing test setup...
+[INFO ]2026-04-0119:46:19.997[TestNG-tests-2]utils.LoggerLoad1)-Starting Hooks setup
+[INFO ]2026-04-0119:46:19.998[TestNG-tests-2]utils.LoggerLoad1)-Loaded configuration properties
+[INFO ]2026-04-0119:46:19.998[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
+[INFO ]2026-04-0119:46:19.999[TestNG-tests-2]utils.LoggerLoad1)-Launching browser: firefox
